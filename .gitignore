@@ -1,0 +1,14 @@
+# Keep paper source files local
+*.pdf
+
+# Intermediate extraction files
+paper_extracted_sections.txt
+paper_key_sentences.txt
+paper_tail_sections.txt
+
+# Excel temporary lock files
+~$*.xlsx
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
